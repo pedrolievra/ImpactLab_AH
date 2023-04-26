@@ -1,1 +1,1 @@
-Projeto da matéria de Arquiteturas Heterogêneas do curso de Vis
+Projeto da matéria de Arquiteturas Heterogêneas do curso de Visão Computacional
